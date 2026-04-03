@@ -1,0 +1,5 @@
+{
+  "name": "Korea IT & AI Event Finder",
+  "description": "국내 IT 및 AI 관련 행사(무료 중심)를 실시간으로 찾아보고 등록 가능 여부를 확인하는 서비스입니다.",
+  "requestFramePermissions": ["geolocation"]
+}
